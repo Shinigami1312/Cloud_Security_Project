@@ -10,8 +10,6 @@ This repository hosts my final project for the Cloud Security course, which focu
 - [Implementation](#implementation)
 - [Results and Analysis](#results-and-analysis)
 - [Conclusion](#conclusion)
-- [Future Work](#future-work)
-- [License](#license)
 
 ---
 
@@ -77,14 +75,6 @@ The project successfully demonstrates a secure and resilient AWS environment. Ke
 ## Conclusion
 This project provides a comprehensive approach to secure cloud architecture by integrating various AWS security services. The methodologies and implementations documented here serve as a blueprint for organizations seeking a structured security posture within AWS. The solution is scalable, making it applicable to various industry sectors with compliance requirements.
 
-## Future Work
-To further enhance security, future iterations of this project could explore:
-- **Advanced Threat Detection**: Implementing machine learning with Amazon Macie for data loss prevention.
-- **Encryption Best Practices**: Using AWS KMS for encrypting data at rest and in transit.
-- **Compliance Automation**: Leveraging AWS Config to automatically check for policy compliance.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
