@@ -27,7 +27,7 @@ The main objectives of this project are as follows:
 - **Network and System Monitoring**: Enable CloudTrail, CloudWatch, and GuardDuty to monitor and log network traffic and detect potential security threats.
 
 ## Project Contents
-- **`CyberSecurity_Project.pdf`**: Main document with detailed explanations of the project’s architecture, security configurations, and analysis.
+- **`Project.pdf`**: Main document with detailed explanations of the project’s architecture, security configurations, and analysis.
 - **IAM Policies**: Configurations for restricting user access based on roles, providing the least privilege for cloud operations.
 - **Network Security Setup**: Firewall rules, VPC configuration, and subnets layout to isolate sensitive data and control ingress/egress traffic.
 - **Monitoring and Logging Configurations**: Setup for AWS CloudTrail, CloudWatch, and GuardDuty to monitor security events and log critical information.
